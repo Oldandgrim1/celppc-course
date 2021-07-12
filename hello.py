@@ -1,3 +1,5 @@
 #!/usr/bin/env python3.9
 
-print("Hello World!")
+# This is a full line comment.
+
+print("Hello World!") # This is an end ofl ine comment.
