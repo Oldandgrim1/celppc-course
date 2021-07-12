@@ -3,3 +3,8 @@
 # This is a full line comment.
 
 print("Hello World!") # This is an end ofl ine comment.
+
+"""
+This is not a block comment
+this is a multiline string
+"""
