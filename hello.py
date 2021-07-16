@@ -2,7 +2,7 @@
 
 # This is a full line comment.
 
-print("Hello World!") # This is an end ofl ine comment.
+print("Hello World!") # This is an end of line comment.
 
 """
 This is not a block comment
